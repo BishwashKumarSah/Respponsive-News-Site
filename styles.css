@@ -26,6 +26,7 @@ body {
 a {
   text-decoration: none;
 }
+
 ul li a:hover{
   color:hsl(5, 85%, 63%);
 }
@@ -45,9 +46,9 @@ nav {
   align-items: center;
 }
 .nav-items li {
-  color: var(--Grayish-blue);
+  color: var(--Very-dark-blue);
   font-weight: 600;
-  opacity: 65%;
+  opacity: 60%;
 }
 img {
   width: 100%;
